@@ -4,5 +4,6 @@ Fable.PowerPack
 Fable.React
 Fable.React.Native
 Fable.Elmish
+Fable.Elmish.Debugger
 Fable.Elmish.React
 FSharp.NET.Sdk
