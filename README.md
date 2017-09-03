@@ -21,7 +21,7 @@ Make sure that the FSharp compiler is properly installed on your operating syste
 ### Running F# code on React Native
 
 * Pull latest master
-* Open Android Simulator or connect a device in debug mode via USB
+* Open Android Simulator (using either the emulator command or the Android SDK Manager) or connect a device in debug mode via USB
 * Run `build.cmd debug` from command prompt
 * Go to android device simulator and you should see something like
 
